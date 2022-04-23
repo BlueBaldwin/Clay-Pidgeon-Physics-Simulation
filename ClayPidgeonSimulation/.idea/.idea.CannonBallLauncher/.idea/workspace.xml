@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ab3a462-8a70-43ef-8951-dacb545cd8e3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CannonBallLauncher/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CannonBallLauncher/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CannonBallLauncher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CannonBallLauncher/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Bullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Bullet.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Cannon1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Cannon1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AudioController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AudioController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/InterceptController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/InterceptController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/InterceptController2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/InterceptController2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/OctreeNode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/OctreeNode.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vec3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Vec3.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EE47BE73-F7EF-409C-A5E5-CE4B121745B7/6d/a5c80d9e/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/OctreeNode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InterceptController2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EE47BE73-F7EF-409C-A5E5-CE4B121745B7/88/2f17b279/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EE47BE73-F7EF-409C-A5E5-CE4B121745B7/ac/11a28ac9/Quaternion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vec3.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EE47BE73-F7EF-409C-A5E5-CE4B121745B7/1e/f06a2f35/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vec2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FB001E01-371B-4ADC-A200-13E0AC763896/00/2bba6410/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraRotation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BoundingBox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/0e/a937fa1d/Single.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AudioController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/LinePlotter.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Vec2.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CubeMover.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CannonSlider.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CannonRotation1.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/RanNumGen.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AutomaticFire.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Cannonball.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CannonLauncher.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/JOES.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Time.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CurrentTime.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/RandomNumberGenerator.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CannonArray.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Projectile.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/SceneController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BoundingBox.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/InterceptController2.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ProjectileLauncher.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CameraRotation.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PhysicsHUD.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/InterceptController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/OctreeNode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Vec3.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CannonRotation.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AudioController.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1lPsx46YJwjlFxG8OGYS76sIEIh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.27529022" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="XThreadsFramesViewSplitterKey" value="0.4969325" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.splitter.proportion" value="0.23649338" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ab3a462-8a70-43ef-8951-dacb545cd8e3" name="Default Changelist" comment="" />
+      <created>1607510308016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607510308016</updated>
+      <workItem from="1607510313702" duration="798000" />
+      <workItem from="1607518058591" duration="2816000" />
+      <workItem from="1607564155959" duration="4142000" />
+      <workItem from="1609753581172" duration="737000" />
+      <workItem from="1609772669654" duration="630000" />
+      <workItem from="1609773507455" duration="3045000" />
+      <workItem from="1609934225959" duration="17702000" />
+      <workItem from="1610043488774" duration="101000" />
+      <workItem from="1610043613331" duration="119000" />
+      <workItem from="1610044566747" duration="38000" />
+      <workItem from="1610044636777" duration="10462000" />
+      <workItem from="1610372978667" duration="1904000" />
+      <workItem from="1610408906450" duration="18508000" />
+      <workItem from="1610543518877" duration="16905000" />
+      <workItem from="1610831327274" duration="3473000" />
+      <workItem from="1611014414552" duration="399000" />
+      <workItem from="1611095402175" duration="20854000" />
+      <workItem from="1611157197800" duration="203000" />
+      <workItem from="1611157599222" duration="4259000" />
+      <workItem from="1611183488316" duration="12453000" />
+      <workItem from="1611219480479" duration="30092000" />
+      <workItem from="1611335873489" duration="215000" />
+      <workItem from="1611361661363" duration="6348000" />
+      <workItem from="1611401299140" duration="4619000" />
+      <workItem from="1611407758075" duration="5945000" />
+      <workItem from="1611443710053" duration="602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="UNITY_DEBUG_RUN_CONFIGURATION">
+        <watch expression="index" />
+        <watch expression="fireTrigger" />
+        <watch expression="trapTimer" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
